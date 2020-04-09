@@ -8,3 +8,8 @@ This extension will require a free MLB.TV account.
 
 
 ## Installation
+1. Click the green "Clone or download" button and choose "Download ZIP".
+2. Unzip the file.
+3. Open a new tab in Google Chrome and navigate to "chrome://extensions".
+4. Ensure Developer Mode is enabled.
+5. Click the "Load Unpacked" button and choose the unzipped folder that was downloaded.
