@@ -1,0 +1,19 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    
+    "manifest_version": 2,
+    "name": "Random MLB.TV Game",
+    "description": "Get a random MLB.TV game for a chosen team.",
+    "version": "1.0",
+    "background": { 
+        "page":"background.html"
+    },
+    "content_scripts": [{
+        "matches": ["http://mlb.com/*"],
+        "js": ["jquery.js", "underscore.js", "baseball.js"]
+    }],
+    "browser_action" : {
+        "default_title" : "Random MLB.TV Game",
+        "default_popup": "popup.html"
+    }
+}
