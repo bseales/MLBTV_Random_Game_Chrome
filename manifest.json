@@ -8,6 +8,9 @@
     "background": { 
         "page":"background.html"
     },
+    "icons": { 
+        "64": "icon64.png"
+    },
     "content_scripts": [{
         "matches": ["http://mlb.com/*"],
         "js": ["jquery.js", "underscore.js", "baseball.js"]
