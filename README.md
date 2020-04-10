@@ -6,6 +6,7 @@ The 2018 and 2019 seasons are currently free to everyone on MLB.TV since the 202
 
 This extension will require a free MLB.TV account.
 
+<a target="_blank" href="https://icons8.com/icons/set/baseball-ball--v3">Baseball Ball icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ## Installation
 1. Click the green "Clone or download" button and choose "Download ZIP".
